@@ -1,18 +1,18 @@
 const teamMembers = [
   {
     image: "/lovable-uploads/3d95b4f4-edad-4de6-9fe1-86ca82eb6e38.png",
-    name: "Sarah Chen",
-    role: "AI Research Lead"
+    name: "Jhulianna Tarqui",
+    role: "CEO"
   },
   {
     image: "/lovable-uploads/2bb157a6-ac04-4986-9ba5-ec217a6bcb13.png",
-    name: "Miguel Rodriguez",
-    role: "Agricultural Expert"
+    name: "Cesar Vera",
+    role: "CFO"
   },
   {
-    image: "/lovable-uploads/d36bffdb-3539-4b6f-a068-221f24e8d224.png",
-    name: "David Park",
-    role: "Technical Director"
+    image: "/lovable-uploads/chris.png",
+    name: "Christian Mendoza",
+    role: "CTO"
   }
 ];
 

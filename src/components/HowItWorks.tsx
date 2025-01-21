@@ -49,6 +49,12 @@ const HowItWorks = () => {
             variant="secondary"
             size="lg"
             className="bg-verdant-secondary hover:bg-verdant-secondary/90 text-white"
+            onClick={() =>
+              window.open(
+                "https://drive.google.com/drive/u/1/folders/1U9RDRy87NAApOtvDTexSsjSF8DsQr_BC",
+                "_blank"
+              )
+            }
           >
             Start Now
             <ArrowRight className="ml-2 h-5 w-5" />
